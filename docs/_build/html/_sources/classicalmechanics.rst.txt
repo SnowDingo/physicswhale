@@ -1,5 +1,0 @@
-Classical Mechanics
-===========
-In this chapter, we will learn classical mechanics from zero to hero.
-
-
