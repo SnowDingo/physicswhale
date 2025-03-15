@@ -30,8 +30,8 @@ language = 'en'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "shibuya"
-html_theme_path = ["_themes"]
+html_theme = "sphinx_rtd_theme"
+html_static_path = ['_static']
 
 # -- Options for todo extension ----------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/extensions/todo.html#configuration
