@@ -32,7 +32,6 @@ language = 'en'
 
 html_theme = "shibuya"
 html_theme_path = ["_themes"]
-html_static_path = ['_static']
 
 # -- Options for todo extension ----------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/extensions/todo.html#configuration
