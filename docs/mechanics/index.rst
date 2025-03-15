@@ -7,3 +7,4 @@ Mechanics
    :caption: Mechanics
 
    classicalmechanics
+   force

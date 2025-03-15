@@ -7,3 +7,5 @@ What is Mechanics?
 
 Mechanics is an area in physics where physicists study basic movements of objects and how different types of forces interacts with one another to create a certain movement.
 
+
+In the following pages, you will learn some basic forces and problems.
